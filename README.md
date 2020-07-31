@@ -1,3 +1,7 @@
+# Good Intros to Lingustics
+
+-[YouTube](https://www.youtube.com/watch?v=sGWpbDI11Ik)
+
 # Principles
 
 - Start with learning about the linguistic nature of the language first
