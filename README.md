@@ -10,7 +10,8 @@
 - Identify the type of language:
     - polysynthetic vs isolating
     - Check if the language follows Generative Grammar
-    -
+
+- Next, have a look at the target language phonology: https://en.wikipedia.org/wiki/{lang}_phonology
 - Next, Learn about Phonemes and Allophones charts for target language
 - Next, Try to learn the morphemes of the target language:
     - Root Words
