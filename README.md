@@ -6,7 +6,7 @@
 -Learn IPA to easily convert to target language to grasp accent.
 # Reverse Engineering for target language
 - Choose target language by:
-    - Lowest Orthographic depth
+    - Lowest Orthographic depth (https://arxiv.org/pdf/1912.13321.pdf)
 - Identify the type of language:
     - polysynthetic vs isolating
     - Check if the language follows Generative Grammar
@@ -36,10 +36,14 @@
 -
 
 # Tools
+- https://en.wikipedia.org/wiki/Help:IPA/
 - Pimsleur
 - https://www.linguee.com/
 - YouTube
 - Keyboard map change
+- http://ipa-reader.xyz/
+- https://github.com/olearym/IPA-tools
+- https://github.com/marxav/oteann
 # Principles
 
 - Start with learning about the linguistic nature of the language first
@@ -56,6 +60,10 @@
 - Try writing what you see around you in that language. (starting from just words to prose)
 
 
-# Timetable
-
-
+# Easiest Target Languages (According to https://arxiv.org/pdf/1912.13321.pdf)
+- Finnish, Turkish, Korean
+- Arabic, Breton, Italian, Serbo-Croatian and Spanish
+- Dutch, Portuguese and Russian
+- German
+- English
+- French
