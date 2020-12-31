@@ -45,6 +45,7 @@
 - http://ipa-reader.xyz/
 - https://github.com/olearym/IPA-tools
 - https://github.com/marxav/oteann
+- Create tool bot that converses in the target language
 # Principles
 
 - Start with learning about the linguistic nature of the language first
