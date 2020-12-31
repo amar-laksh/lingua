@@ -37,6 +37,7 @@
 -
 
 # Tools
+- IPA learning: http://learnipa.group.shef.ac.uk/
 - https://en.wikipedia.org/wiki/Help:IPA/
 - Pimsleur
 - https://www.linguee.com/
